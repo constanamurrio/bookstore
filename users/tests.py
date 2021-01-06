@@ -57,3 +57,4 @@ class SignupPageTests(TestCase):
             SignupPageView.as_view().__name__
         )
 
+
